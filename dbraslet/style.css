@@ -1,0 +1,8 @@
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.col6{
+    width: 50%;
+}

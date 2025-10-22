@@ -1,0 +1,58 @@
+const brasletlar = [
+    {
+        id:1,
+        name: "Pink Star Diamond Ring" ,
+        price_uzb: "788 084 111 422 so'm",
+        price_evro: "57 300 000 evro",
+        img: "./1.webp",
+    },
+    {
+        id:2,
+        name: "Oppenheimer Blue Diamond ring" ,
+        price_uzb: "550 145 976 560 so'm",
+        price_evro: "40 000 000 evro",
+        img: "./5.webp",
+    },
+    {
+        id:3,
+        name: "The All-Diamond Ring" ,
+        price_uzb: "605 160 574 216 so'm",
+        price_evro: "44 000 000 evro",
+        img: "./3.webp",
+    },
+    {
+        id:4,
+        name: "The Pink Legacy diamond ring" ,
+        price_uzb: "529 515 502 439so'm",
+        price_evro: "38 500 000 evro",
+        img: "./6.jpg",
+    },
+    {
+        id:5,
+        name: "The Blue Moon of Josephine diamond ring" ,
+        price_uzb: "435 990 686 423 so'm",
+        price_evro: "31 700 000 evro",
+        img: "./2.jpg",
+    },
+    {
+        id:6,
+        name: "The Graff Pink diamond ring" ,
+        price_uzb: "398 855 833 006 so'm",
+        price_evro: "29 000 000 evro",
+        img: "./4.jpg",
+    },
+    {
+        id:7,
+        name: "Princie Diamond Ring" ,
+        price_uzb: "350 718 060 057 so'm",
+        price_evro: "25 500 000 evro",
+        img: "./7.webp",
+    },
+    {
+        id:8,
+        name: "The Sakura" ,
+        price_uzb: "297 078 827 342 so'm",
+        price_evro: "21 600 000 evro",
+        img: "./8.jpg",
+    },
+]
